@@ -80,5 +80,12 @@ text-align:center;
 padding:15px;
 background:#2c3e50;
 color:white;
+  .profile{
+
+width:150px;
+border-radius:50%;
+margin-bottom:20px;
+
+}
 
 }
