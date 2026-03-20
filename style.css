@@ -91,9 +91,7 @@ color:white;
   margin: 20px auto;
 }
 
-}
 
-}
 nav ul li a:hover{
 
 color:#1abc9c;
@@ -105,5 +103,5 @@ color:#1abc9c;
 transform:scale(1.05);
 transition:0.3s;
 
-}
+
 }
